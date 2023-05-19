@@ -190,12 +190,10 @@ export default {
     padding: 2rem;
     box-sizing: border-box;
   }
-
   .map {
     flex: 1;
     margin-right: 2rem;
   }
-
   .action-area-container {
     display: flex;
     flex-direction: column;
@@ -206,7 +204,6 @@ export default {
     padding: 1rem;
     border-radius: 0.5rem;
   }
-
   .search-area {
     display: flex;
     justify-content: space-between;
@@ -230,31 +227,25 @@ export default {
     cursor: pointer;
     transition: background 0.3s;
   }
-
   .button:hover {
     background: #0056b3;
   }
-
   .table {
     width: 100%;
     border-collapse: collapse;
     margin-bottom: 1rem;
   }
-
   .table th, .table td {
     border: 1px solid #ccc;
     padding: 0.5rem;
   }
-
   .table th {
     background: #f8f9fa;
   }
-
   .pagination {
     display: flex;
     justify-content: space-between;
   }
-
   .time-info {
     margin-top: 1rem;
     font-size: 0.875rem;
