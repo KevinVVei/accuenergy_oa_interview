@@ -20,5 +20,5 @@ git commit -m 'deploy'
 # git push -f git@github.com:KevinVVei/accuenergy_oa_interview.git
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:KevinVVei/accuenergy_oa_interview.git
+# git push -f git@github.com:KevinVVei/accuenergy_oa_interview.git
 cd -
